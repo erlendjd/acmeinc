@@ -23,16 +23,16 @@ Below are a couple of screenshots of the deployment.
 
 ### The FTP service running on the Ubuntu VM:
 
-![DNAT Rules](./Screenshots/ftp.png)
+![FTP Service](./Screenshots/FTP.png)
 
 ### Backup of the Windows VM:
 
-![DNAT Rules](./Screenshots/WindowsBU.png)
+![Backup of Windows VM](./Screenshots/WindowsBU.png)
 
 ### Backup of the Ubuntu VM:
 
-![DNAT Rules](./Screenshots/UbuntuBU.png)
+![Backup of Ubuntu VM](./Screenshots/UbuntuBU.png)
 
 ### The fileshare mapped on the Windows VM:
 
-![DNAT Rules](./Screenshots/mapped.png)
+![Mapped drive on Windows VM](./Screenshots/mapped.png)
